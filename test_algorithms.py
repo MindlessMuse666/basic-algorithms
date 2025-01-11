@@ -1,6 +1,6 @@
 import unittest
 from typing import List
-from BasicAlgorithms import sorting, search, math, utils
+from BasicAlgorithmsPyLib import sorting, search, math, utils
 
 class TestAlgorithms(unittest.TestCase):
 

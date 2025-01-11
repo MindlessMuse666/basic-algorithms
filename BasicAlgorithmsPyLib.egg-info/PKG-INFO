@@ -1,0 +1,29 @@
+Metadata-Version: 2.2
+Name: BasicAlgorithmsPyLib
+Version: 0.0.1
+Summary: The "BasicAlgorithmsPyLib" library this is a cozy place for the most common algorithms.
+Home-page: https://github.com/MindlessMuse666/basic-algorithms
+Author: MindlessMuse666
+Author-email: mindlessmuse.666@gmail.com
+Project-URL: GitHub, https://github.com/MindlessMuse666
+Keywords: python algorithms algorithms-library first-library sorting searching data-structures
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.25.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# basic-algorithms
