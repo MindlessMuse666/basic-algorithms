@@ -1,4 +1,4 @@
-# Library of Basic Algorithms <a href="https://opensource.org/licenses/MIT "><img src="https://img.shields.io/badge/License-MIT-yellow.svg " alt="MIT-License image"></a>
+# Library of Basic Algorithms <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT-License image"></a>
 
 This repository contains a small library called `BasicAlgorithms`, a collection of basic algorithms implemented in Python. The 'BasicAlgorithms` library this is a cozy place for the most common algorithms.
 
