@@ -1,47 +1,47 @@
-# Библиотека Базовых Алгоритмов <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT-License image"></a>
+# Library of Basic Algorithms <a href="https://opensource.org/licenses/MIT "><img src="https://img.shields.io/badge/License-MIT-yellow.svg " alt="MIT-License image"></a>
 
-Этот репозиторий содержит небольшую библиотеку `BasicAlgorithms` - коллекцию базовых алгоритмов, реализованных на Python. Библиотека `BasicAlgorithms` это уютное место для наиболее часто встречающихся алгоритмов.
+This repository contains a small library called `BasicAlgorithms`, a collection of basic algorithms implemented in Python. The 'BasicAlgorithms` library this is a cozy place for the most common algorithms.
 
-## Включенные Алгоритмы
+## Enabled Algorithms
 
-В настоящее время библиотека включает в себя реализации следующих алгоритмов:
+Currently, the library includes implementations of the following algorithms:
 
-- Сортировка:
-    - Сортировка Пузырьком (Bubble Sort)
-    - Сортировка Вставками (Insertion Sort)
-    - Сортировка Выбором (Selection Sort)
-    - Сортировка Слиянием (Merge Sort)
-    - Быстрая Сортировка (Quick Sort)
-- Поиск:
-    - Линейный Поиск (Linear Search)
-    - Бинарный Поиск (Binary Search)
-- Математические алгоритмы:
-    - Факториал
-    - Число Фибоначчи по индексу
-- Другие алгоритмы:
-    - Поиск min и max 
+- Sorting:
+- Bubble Sort
+- Insertion Sort
+    - Selection Sort
+- Merge Sort
+- Quick Sort
+- Search:
+- Linear Search
+- Binary Search
+- Mathematical algorithms:
+    - Factorial
+    - The Fibonacci number of the index
+- Other algorithms:
+    - Search for min and max 
 
-## Использование
+## Usage
 
-Чтобы использовать алгоритмы в своих Python-проектах, вы можете:
+To use algorithms in your Python projects, you can:
 
-1. Клонировать репозиторий.
+1. Clone the repository.
 
 
-## Вклад
+## Contribution
 
-Приветствуются любые вклады! Если у вас есть реализация другого алгоритма или вы хотите улучшить существующие, пожалуйста, следуйте этим шагам:
+Any contributions are welcome! If you have an implementation of another algorithm or would like to improve the existing ones, please follow these steps.:
 
-1.  Сделайте форк репозитория.
-2.  Создайте новую ветку для вашей фичи или исправления ошибки.
-3.  Реализуйте свои изменения.
-4.  Убедитесь, что ваш код хорошо документирован и включает тесты.
-5.  Отправьте pull request.
+1. Make a fork of the repository.
+2. Create a new branch for your feature or bug fix.
+3. Implement your changes.
+4. Make sure that your code is well documented and includes tests.
+5. Send a pull request.
 
-## Лицензия
+## License
 
-Этот проект лицензирован в соответствии с [лицензией MIT](LICENSE).
+This project is licensed under the [MIT LICENSE].
 
-## Автор
+## Author
 
 MindlessMuse666 (https://github.com/MindlessMuse666)
