@@ -34,3 +34,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# pypi build
+build/
+.build/
+BasicAlgorithmsPyLib.egg-info/
+dist/
+setup.py
+setup.cfg
